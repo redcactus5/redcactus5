@@ -1,1 +1,1 @@
-just my personal profile for personal projects
+Hi, I'm redcactus5! I'm a mediocre programmer, fan of open source and high level languages, computer history enthuseist, and aspiring shut in. I am currently not on speaking terms with lisp and JavaScript. they know what they did, and they are not sorry.
